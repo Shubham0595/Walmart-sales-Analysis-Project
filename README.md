@@ -63,8 +63,8 @@ This analysis aims to uncover the different customers segments, purchase trends 
   
 2)Feature Engineering: This will help use generate some new columns from existing ones.
 
- a)Add a new column named #### time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
- b)Add a new column named #### day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer 
+ a)Add a new column named ### time_of_day to give insight of sales in the Morning, Afternoon and Evening. This will help answer the question on which part of the day most sales are made.
+ b)Add a new column named ### day_name that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer 
  the question on which week of the day each branch is busiest.
  c)Add a new column named month_name that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). Help determine which month of 
  the year has the most sales and profit.
@@ -75,11 +75,13 @@ This analysis aims to uncover the different customers segments, purchase trends 
 ## Business Questions To Answer
 
 1)Generic Questions:-
+
 How many unique cities does the data have?
 
 In which city is each branch?
 
 2)Product:-
+
 How many unique product lines does the data have?
 
 What is the most common payment method?
@@ -105,6 +107,7 @@ What is the most common product line by gender?
 What is the average rating of each product line?
 
 3)Sales:-
+
 Number of sales made in each time of the day per weekday
 
 Which of the customer types brings the most revenue?
@@ -114,6 +117,7 @@ Which city has the largest tax percent/ VAT (Value Added Tax)?
 Which customer type pays the most in VAT?
 
 4)Customer:-
+
 How many unique customer types does the data have?
 
 How many unique payment methods does the data have?
